@@ -16,8 +16,18 @@ EyesTalk est un projet basé sur la vision par ordinateur qui permet à un ordin
 - Modèle ML :
 
 ## 📋 Installation
-**1. Cloner le dépôt**
+### **1. Cloner le dépôt**
 ```
 git clone https://github.com/khiraniaya/EyesTalk.git
 cd EyesTalk
+```
+
+### 2. Créer un environnement virtuel
+```
+python -m venv venv
+venv\Scripts\activate
+```
+### 3. Installer les dépendances
+```
+pip install -r requirements.txt
 ```
