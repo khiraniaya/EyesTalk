@@ -18,7 +18,6 @@ EyesTalk est un projet basé sur la vision par ordinateur qui permet à un ordin
 ## 📋 Installation
 **1. Cloner le dépôt**
 ```
-git status
-git add
-git commit
+git clone https://github.com/khiraniaya/EyesTalk.git
+cd EyesTalk
 ```
