@@ -1,6 +1,6 @@
 # EyesTalk
 
-## Description
+## 🔎 Description
 EyesTalk est un projet basé sur la vision par ordinateur qui permet à un ordinateur de décrire ce qu'il observe en temps réel via une caméra et de fournir une narration audio. Ce projet utilise des techniques de vision par ordinateur, de traitement du langage naturel et de synthèse vocale. Ce système est conçu pour être utile dans des domaines tels que l'assistance aux malvoyants, la surveillance intelligente, et les applications éducatives.
 
 ## 🚀 Fonctionnalités
@@ -17,3 +17,8 @@ EyesTalk est un projet basé sur la vision par ordinateur qui permet à un ordin
 
 ## 📋 Installation
 **1. Cloner le dépôt**
+```
+git status
+git add
+git commit
+```
